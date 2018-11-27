@@ -1,0 +1,11 @@
+﻿  Common.cpp
+c:\users\tmvoa\source\repos\meetnow\meetnow\common.cpp(31): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  RecommendationPlace.cpp
+c:\users\tmvoa\source\repos\meetnow\meetnow\recommendationplace.cpp(45): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+  Main.cpp
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  RecommendationTime.cpp
+  MeetNow.vcxproj -> C:\Users\tmvoa\source\repos\MeetNow\Debug\MeetNow.exe
